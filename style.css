@@ -1,0 +1,10 @@
+#gameTable {
+    margin: auto;
+}
+
+td {
+    border: 2px solid black;
+    width: 30px;
+    height: 50px; 
+    border-radius: 50%;
+}
